@@ -1,0 +1,290 @@
+{
+    "baseURL": "https://www.psl.org.pk",
+    "vocabulary":[
+        {
+            "category": "Adjectives",
+            "words": [
+                {
+                    "word": "able"
+                },
+                {
+                    "word": "according"
+                },
+                {
+                    "word": "ancient"
+                },
+                {
+                    "word": "annual"
+                },
+                {
+                    "word": "dry"
+                },
+                {
+                    "word": "empty"
+                },
+                {
+                    "word": "sudden"
+                },
+                {
+                    "word": "sufficient"
+                },
+                {
+                    "word": "thorough"
+                },
+                {
+                    "word": "true"
+                },
+                {
+                    "word": "universal"
+                },
+                {
+                    "word": "urgent"
+                },
+                {
+                    "word": "warm"
+                },
+                {
+                    "word": "weak"
+                },
+                {
+                    "word": "whole"
+                }      
+            ]
+        },
+        {
+            "category": "Adverbs",
+            "words": [
+                {
+                    "word": "Absolutely"
+                },
+                {
+                    "word": "Almost"
+                },
+                {
+                    "word": "Continuously"
+                },
+                {
+                    "word": "However"
+                },
+                {
+                    "word": "Literally"
+                },
+                {
+                    "word": "Often"
+                },
+                {
+                    "word": "Outdoors"
+                },
+                {
+                    "word": "So (Accentuator)"
+                },
+                {
+                    "word": "So (In Order To)"
+                },
+                {
+                    "word": "Soon"
+                },
+                {
+                    "word": "There"
+                },
+                {
+                    "word": "Very"
+                }
+            ]
+        },
+        {
+            "category": "Body Anatomy",
+            "words": [
+                {
+                    "word": "Brain"
+                },
+                {
+                    "word": "Eye"
+                },
+                {
+                    "word": "Heart"
+                },
+                {
+                    "word": "Mouth"
+                },
+                {
+                    "word": "Tongue"
+                }
+            ]
+        },
+        {
+            "category": "Family & Marriage",
+            "words": [
+                {
+                    "word": "baby"
+                },
+                {
+                    "word": "father"
+                },
+                {
+                    "word": "marriage"
+                },
+                {
+                    "word": "mother"
+                },
+                {
+                    "word": "parents"
+                },
+                {
+                    "word": "sister"
+                },
+                {
+                    "word": "woman"
+                }
+            ]
+        },
+        {
+            "category": "Numbers",
+            "words": [
+                {
+                    "word": "One"
+                },
+                {
+                    "word": "10"
+                },
+                {
+                    "word": "50"
+                },
+                {
+                    "word": "100"
+                },
+                {
+                    "word": "lakh"
+                }
+            ]
+        },
+        {
+            "category": "Prepositions",
+            "words": [
+                {
+                    "word": "because"
+                },
+                {
+                    "word": "from"
+                },
+                {
+                    "word": "near"
+                },
+                {
+                    "word": "off"
+                },
+                {
+                    "word": "outside"
+                },
+                {
+                    "word": "up"
+                },
+                {
+                    "word": "without"
+                }
+            ]
+        },
+        {
+            "category": "Pronouns",
+            "words": [
+                {
+                    "word": "all"
+                },
+                {
+                    "word": "another"
+                },
+                {
+                    "word": "any"
+                },
+                {
+                    "word": "both"
+                },
+                {
+                    "word": "few"
+                },
+                {
+                    "word": "he"
+                },
+                {
+                    "word": "I"
+                },
+                {
+                    "word": "many"
+                },
+                {
+                    "word": "she"
+                },
+                {
+                    "word": "some"
+                },
+                {
+                    "word": "this"
+                },
+                {
+                    "word": "we"
+                },
+                {
+                    "word": "you"
+                }
+            ]
+        },
+        {
+            "category": "Transport",
+            "words": [
+                {
+                    "word": "bus"
+                },
+                {
+                    "word": "car"
+                },
+                {
+                    "word": "cycle"
+                },
+                {
+                    "word": "street"
+                },
+                {
+                    "word": "truck"
+                },
+                {
+                    "word": "walk"
+                }
+            ]
+        },
+        {
+            "category": "Verbs",
+            "words": [
+                {
+                    "word": "come"
+                },
+                {
+                    "word": "do"
+                },
+                {
+                    "word": "go"
+                },
+                {
+                    "word": "help"
+                },
+                {
+                    "word": "keep"
+                },
+                {
+                    "word": "make"
+                },
+                {
+                    "word": "request"
+                },
+                {
+                    "word": "say"
+                },
+                {
+                    "word": "travel"
+                },
+                {
+                    "word": "write"
+                }
+            ]
+        }
+    ]
+}

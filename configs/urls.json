@@ -1,0 +1,564 @@
+{
+    "links": [
+        {
+            "word": "able",
+            "720": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/a/720p/able_1623416971_70330.mp4",
+            "480": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/a/480p/480-MdzdM8XpJQzShu5MnCw2-1623417444634.mp4",
+            "360": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/a/360p/360-jx9iwECSGkoIIOq7jwQE-1623417444637.mp4",
+            "240": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/a/240p/240-warhvVdJMUkgVMrMBIa9-1623417444638.mp4"
+        },
+        {
+            "word": "according",
+            "720": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/a/720p/according_1623421026_14474.mp4",
+            "480": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/a/480p/480-gWGfo6o2b3bGLzRrl1TR-1623421674834.mp4",
+            "360": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/a/360p/360-QJkaCqoEKy8HuoGrlgeJ-1623421674837.mp4",
+            "240": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/a/240p/240-icKIyXv05I0ebvdoXSDU-1623421674837.mp4"
+        },
+        {
+            "word": "ancient",
+            "720": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/a/720p/ancient_1623422747_55278.mp4",
+            "480": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/a/480p/480-g3iqH4ptn6AVt3wriKAE-1623422824898.mp4",
+            "360": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/a/360p/360-xV7iYdj2o6vGDxfs1wVo-1623422824902.mp4",
+            "240": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/a/240p/240-7Bpr4Y1Y3BUCTWdpJVOR-1623422824903.mp4"
+        },
+        {
+            "word": "annual",
+            "720": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/a/720p/annual_1623423105_69076.mp4",
+            "480": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/a/480p/480-57xrbkmMBbUgTUD5V94C-1623423484911.mp4",
+            "360": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/a/360p/360-WgmjbzxL42NFvaxMyBr6-1623423484913.mp4",
+            "240": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/a/240p/240-9a6qnw5CKfYl1gbYFbyk-1623423484914.mp4"
+        },
+        {
+            "word": "dry",
+            "720": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/d/720p/dry_1623581182_27229.mp4",
+            "480": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/d/480p/480-uVpztu7fMSPimokk5N4h-1623581213038.mp4",
+            "360": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/d/360p/360-3itZl4gGcZ551XAyH9G9-1623581213040.mp4",
+            "240": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/d/240p/240-RYyeJ6c7CVTtO2vWco7X-1623581213041.mp4"
+        },
+        {
+            "word": "empty",
+            "720": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/e/720p/empty_1623582315_19626.mp4",
+            "480": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/e/480p/480-1QG9kpPUPZgiUJQukRo4-1623582458132.mp4",
+            "360": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/e/360p/360-iOqfkuLgf2PUaics93gg-1623582458135.mp4",
+            "240": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/e/240p/240-cla6jTJx0ulniJsWr5qZ-1623582458136.mp4"
+        },
+        {
+            "word": "sudden",
+            "720": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/s/720p/sudden_1623776288_84452.mp4",
+            "480": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/s/480p/480-4htgVNvJBCbyECm5vJNp-1623776863601.mp4",
+            "360": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/s/360p/360-BHTw4gl5lW7sTSRSsMtb-1623776863603.mp4",
+            "240": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/s/240p/240-vENQOVJzgPcJp7cvCzFO-1623776863604.mp4"
+        },
+        {
+            "word": "sufficient",
+            "720": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/s/720p/sufficient_1623776308_92428.mp4",
+            "480": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/s/480p/480-7VpM1TA3KdrMofzfVO0o-1623776953578.mp4",
+            "360": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/s/360p/360-9zjQtG2L7VlAVL0ZZbhq-1623776953580.mp4",
+            "240": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/s/240p/240-Dl74jOSsvLB5u5zXlnAk-1623776953581.mp4"
+        },
+        {
+            "word": "thorough",
+            "720": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/t/720p/thorough_1623776999_62924.mp4",
+            "480": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/t/480p/480-0LWR79BZrJrCyHkuRW3J-1623777593625.mp4",
+            "360": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/t/360p/360-8h7GxTzPCYlRFVjQvhvn-1623777593627.mp4",
+            "240": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/t/240p/240-Ohnie4idB7PUdqE7nfGj-1623777593628.mp4"
+        },
+        {
+            "word": "true",
+            "720": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/t/720p/true_1623777142_50953.mp4",
+            "480": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/t/480p/480-LtV7IeVVwW9I7hxAAcZS-1623777683611.mp4",
+            "360": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/t/360p/360-lMnuYS4bGczUP22O1SEE-1623777683614.mp4",
+            "240": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/t/240p/240-j7SON0rcnnmieSwyhwwo-1623777683615.mp4"
+        },
+        {
+            "word": "universal",
+            "720": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/u/720p/universal_1623777422_85599.mp4",
+            "480": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/u/480p/480-4onuC3Nia2magir62p95-1623778028641.mp4",
+            "360": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/u/360p/360-Iy3FzerC24hdfRSSLXVJ-1623778028643.mp4",
+            "240": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/u/240p/240-pp3JizUArEtnfsdS6pOS-1623778028644.mp4"
+        },
+        {
+            "word": "urgent",
+            "720": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/u/720p/urgent_1623777680_23016.mp4",
+            "480": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/u/480p/480-nWVIYBKqmHzY1NGiYnoA-1623778243654.mp4",
+            "360": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/u/360p/360-4gzvQXhcnAXFYyU0AeFK-1623778243657.mp4",
+            "240": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/u/240p/240-A4zqN7b2Ey6dJaAhRX5F-1623778243657.mp4"
+        },
+        {
+            "word": "warm",
+            "720": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/w/720p/warm_1623777896_19404.mp4",
+            "480": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/w/480p/480-sKR7t40CdZxaKH2Zlu0O-1623778088675.mp4",
+            "360": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/w/360p/360-T2Px2nm0nKNZcJZDHvnv-1623778088677.mp4",
+            "240": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/w/240p/240-4CmUHpfpYZFiRfx0nKvR-1623778088678.mp4"
+        },
+        {
+            "word": "weak",
+            "720": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/w/720p/weak_1623777914_96540.mp4",
+            "480": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/w/480p/480-vkjivGZV1wxe3nzgZyxG-1623778273659.mp4",
+            "360": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/w/360p/360-gbBsRxcm0KyChQ9HRvXc-1623778273661.mp4",
+            "240": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/w/240p/240-ATT2KqFWIJTRjpyVoHNj-1623778273662.mp4"
+        },
+        {
+            "word": "whole",
+            "720": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/w/720p/whole_1623777943_65044.mp4",
+            "480": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/w/480p/480-GsEcDRPpqB9sDKU2ZVJy-1623778058631.mp4",
+            "360": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/w/360p/360-bM0JvR46Te9eQeFpApm8-1623778058633.mp4",
+            "240": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/w/240p/240-JTjlHO5BwQFuS7HreKt4-1623778058634.mp4"
+        },
+        {
+            "word": "Absolutely",
+            "720": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/a/720p/absolutely_1609130886_21959.mp4",
+            "480": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/a/480p/480-A6dY5nSUddVapMvZXtJW-1609130970270.mp4",
+            "360": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/a/360p/360-pM152Hp3MafffZIF1PZm-1609130970273.mp4",
+            "240": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/a/240p/240-NKTZZFNWdcoL6M9HlMz9-1609130970274.mp4"
+        },
+        {
+            "word": "Almost",
+            "720": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/a/720p/almost_1609130930_19676.mp4",
+            "480": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/a/480p/480-lgvl78dQnaXUd0Q7tFHA-1609130980266.mp4",
+            "360": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/a/360p/360-eOZFW4btMvXFFAqxUV8w-1609130980270.mp4",
+            "240": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/a/240p/240-RptS81mqIDEQ0zFVhAvH-1609130980270.mp4"
+        },
+        {
+            "word": "Continuously",
+            "720": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/c/720p/continuously_1609131401_47733.mp4",
+            "480": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/c/480p/480-qA2eloZLLjmckDz058N3-1609131610369.mp4",
+            "360": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/c/360p/360-jODgNIxxfxKSXCSaxpVm-1609131610373.mp4",
+            "240": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/c/240p/240-HXlZ6CVzIPXLlr2V8Wx1-1609131610373.mp4"
+        },
+        {
+            "word": "However",
+            "720": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/h/720p/however_1609132176_73171.mp4",
+            "480": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/h/480p/480-LXWVykBJsViufiHD4ul2-1609132830595.mp4",
+            "360": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/h/360p/360-dUkHUY55OfQldPzmwHOC-1609132830600.mp4",
+            "240": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/h/240p/240-bLIOH9kehuBHvjrSJpk7-1609132830601.mp4"
+        },
+        {
+            "word": "Literally",
+            "720": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/l/720p/literally_1609132344_69519.mp4",
+            "480": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/l/480p/480-0nehbS83EfHxYoH2CILV-1609132880606.mp4",
+            "360": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/l/360p/360-F3GYp98ONnkfTGuZ9xwK-1609132880609.mp4",
+            "240": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/l/240p/240-BMw2RhdB5Ahmy3buUAnO-1609132880610.mp4"
+        },
+        {
+            "word": "Often",
+            "720": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/o/720p/often_1609132666_76531.mp4",
+            "480": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/o/480p/480-eRgX6xqpQtnOq9h9UyBq-1609132820595.mp4",
+            "360": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/o/360p/360-u1m8UPOUZQuOqFFlZG9j-1609132820599.mp4",
+            "240": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/o/240p/240-tjgp3buhSHf9RREDdnbG-1609132820599.mp4"
+        },
+        {
+            "word": "Outdoors",
+            "720": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/o/720p/outdoors_1609132761_21636.mp4",
+            "480": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/o/480p/480-67TopqcfAcFVNsqXSPLH-1609133380713.mp4",
+            "360": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/o/360p/360-Paz9nUY6Jv6UrVFtAkuC-1609133380716.mp4",
+            "240": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/o/240p/240-fMRh5PhTeUOPvlCzasYS-1609133380716.mp4"
+        },
+        {
+            "word": "So (Accentuator)",
+            "720": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/s/720p/so_(accentuator)_1609132985_31281.mp4",
+            "480": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/s/480p/480-PoLii0FmeujT1qNmqwyQ-1609133360705.mp4",
+            "360": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/s/360p/360-yyHNxTODEz0v4ERboTT4-1609133360708.mp4",
+            "240": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/s/240p/240-JHFPmWYHsAlBTHSMwHd9-1609133360709.mp4"
+        },
+        {
+            "word": "So (In Order To)",
+            "720": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/s/720p/so_(in_order_to)_1609133030_67968.mp4",
+            "480": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/s/480p/480-vffYnASNfWp9GHWFpvgy-1609133485719.mp4",
+            "360": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/s/360p/360-iBij7nB7Q0FG1sJzM7bK-1609133485722.mp4",
+            "240": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/s/240p/240-00sthwjk9GLp2Tb9xd1z-1609133485722.mp4"
+        },
+        {
+            "word": "Soon",
+            "720": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/s/720p/soon_1609133329_85929.mp4",
+            "480": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/s/480p/480-Vg2fFrgTXHEnKZX2zn6E-1609133475712.mp4",
+            "360": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/s/360p/360-rQEQWVFDeBwSWpSFIRX8-1609133475715.mp4",
+            "240": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/s/240p/240-gOlemYNiHLCUVma2JzKV-1609133475716.mp4"
+        },
+        {
+            "word": "There",
+            "720": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/t/720p/there_1609133354_23412.mp4",
+            "480": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/t/480p/480-eLE7YKhewjmtuIK3Tf9K-1609133425711.mp4",
+            "360": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/t/360p/360-SIz8gEncyGsgSW9tsWgr-1609133425714.mp4",
+            "240": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/t/240p/240-l37jnt0s82PniwP9DWdy-1609133425714.mp4"
+        },
+        {
+            "word": "Very",
+            "720": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/v/720p/very_1609133719_91357.mp4",
+            "480": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/v/480p/480-JjiHHZNLTpeep9SBMUme-1609133990867.mp4",
+            "360": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/v/360p/360-vQoW7BXJTeeWohEU0eqp-1609133990870.mp4",
+            "240": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/v/240p/240-CmkJKc1bCp21By1dJLmv-1609133990871.mp4"
+        },
+        {
+            "word": "Brain",
+            "720": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/b/720p/brain_1619611528_31034.mp4",
+            "480": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/b/480p/480-EdczECopfy9PeQuarwje-1619611776455.mp4",
+            "360": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/b/360p/360-0PT0bTG7hGeRGewScMKE-1619611776458.mp4",
+            "240": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/b/240p/240-7jPJpSweLL3hj6gb0kWC-1619611776459.mp4"
+        },
+        {
+            "word": "Eye",
+            "720": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/e/720p/eye_1619612563_26941.mp4",
+            "480": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/e/480p/480-RU0x5M7oS80CcRc0lDBl-1619613106501.mp4",
+            "360": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/e/360p/360-FdhfT5SgjWnCgDBTtUrT-1619613106503.mp4",
+            "240": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/e/240p/240-0L9xg5uYxMtKRGnEvoyN-1619613106504.mp4"
+        },
+        {
+            "word": "Heart",
+            "720": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/h/720p/heart_1619613866_13482.mp4",
+            "480": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/h/480p/480-km4iSx2Vc181XIRKJ9Ml-1619614176553.mp4",
+            "360": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/h/360p/360-S94L8XkE81R3Gx3l5q5Z-1619614176555.mp4",
+            "240": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/h/240p/240-sNbkAKPTyBBseVRC2890-1619614176556.mp4"
+        },
+        {
+            "word": "Mouth",
+            "720": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/m/720p/mouth_1619614237_69084.mp4",
+            "480": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/m/480p/480-VgmL6dkpOaIrUh17fjXG-1619614786585.mp4",
+            "360": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/m/360p/360-U5SD4kfFFDmExd3YWR4R-1619614786587.mp4",
+            "240": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/m/240p/240-r8tJ5D1b2zWoPuGVIoS0-1619614786588.mp4"
+        },
+        {
+            "word": "Tongue",
+            "720": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/t/720p/tongue_1619615214_36366.mp4",
+            "480": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/t/480p/480-Xdi8L0dc4tHTOvLv24Xy-1619615416624.mp4",
+            "360": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/t/360p/360-7ONJrUkJk1UgK2bE7LSR-1619615416627.mp4",
+            "240": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/t/240p/240-sUWRMpBxBmXaCiWun3b2-1619615416628.mp4"
+        },
+        {
+            "word": "baby",
+            "720": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/b/720p/baby_1620320973_72278.mp4",
+            "480": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/b/480p/480-F9FgjdK5gzwCfERbdTTP-1620321664642.mp4",
+            "360": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/b/360p/360-ajeelPgSZ1Rq3CqHHD4u-1620321664645.mp4",
+            "240": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/b/240p/240-6vpwbd9jJ710X9exQ8zi-1620321664645.mp4"
+        },
+        {
+            "word": "father",
+            "720": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/f/720p/father_(1)_1620323264_68430.mp4",
+            "480": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/f/480p/480-txLV9qbSNC6YERW5kGgA-1620323414730.mp4",
+            "360": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/f/360p/360-nTbWkedfrMW6SjxqDxkJ-1620323414733.mp4",
+            "240": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/f/240p/240-d7QyxQ214QZ8eJFgku7O-1620323414733.mp4"
+        },
+        {
+            "word": "marriage",
+            "720": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/m/720p/marriage_1620729820_84527.mp4",
+            "480": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/m/480p/480-KredYD6y5nv4VWkgRz0k-1620730356004.mp4",
+            "360": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/m/360p/360-SAGiMSvliKafCAOUrCdZ-1620730356006.mp4",
+            "240": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/m/240p/240-GKbG3TNp628FP24Gg8Mv-1620730356007.mp4"
+        },
+        {
+            "word": "mother",
+            "720": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/m/720p/mother_1620730084_77135.mp4",
+            "480": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/m/480p/480-bEw6XmBGzPodQGOyvuwP-1620730156011.mp4",
+            "360": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/m/360p/360-DJupkv9CUU2gXkMUXrwy-1620730156013.mp4",
+            "240": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/m/240p/240-inVkFQQNI88Tcyq5fP6s-1620730156014.mp4"
+        },
+        {
+            "word": "parents",
+            "720": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/p/720p/parents_1620730419_82410.mp4",
+            "480": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/p/480p/480-Lurghq6GXWx2q2KJKUQb-1620730766023.mp4",
+            "360": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/p/360p/360-i5nWYCUDwwLHaM5LLTID-1620730766025.mp4",
+            "240": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/p/240p/240-snew2yQmNZnO20sczZuv-1620730766026.mp4"
+        },
+        {
+            "word": "sister",
+            "720": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/s/720p/sister_1620731612_79368.mp4",
+            "480": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/s/480p/480-iKrPiHJkzPP1Z7axIv3a-1620731976102.mp4",
+            "360": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/s/360p/360-AvdvvwopPJVsLKtfcst8-1620731976105.mp4",
+            "240": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/s/240p/240-TTZoQw69COvfwTiiuxKO-1620731976105.mp4"
+        },
+        {
+            "word": "woman",
+            "720": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/w/720p/woman_1620731983_44434.mp4",
+            "480": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/w/480p/480-x0TRwrqCqk8PwlaoAzqm-1620732556130.mp4",
+            "360": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/w/360p/360-2D7D6PU8YrKuIBJdy2Jq-1620732556132.mp4",
+            "240": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/w/240p/240-kFCFhuqfy5MBmmKhdShK-1620732556133.mp4"
+        },
+        {
+            "word": "One",
+            "720": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/o/720p/One._1660298799_85596.mp4",
+            "480": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/o/480p/480-JMp3zSWSBrYcBoMGXTsG-1660299350635.mp4",
+            "360": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/o/360p/360-C1ftX8nUQTYlB72P32Xf-1660299350640.mp4",
+            "240": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/o/240p/240-Dg2x1UJoNqKgRNQVqRtP-1660299350640.mp4"
+        },
+        {
+            "word": "10",
+            "720": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/1/720p/10_1622204350_38597.mp4",
+            "480": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/1/480p/480-SbUQS2MMD60SmTuRLYVR-1622205015314.mp4",
+            "360": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/1/360p/360-MAaN0NKSA0YKtR85LhuX-1622205015317.mp4",
+            "240": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/1/240p/240-kRDoumL3OrK4nOqEY4h0-1622205015317.mp4"
+        },
+        {
+            "word": "50",
+            "720": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/5/720p/50_1622204422_92185.mp4",
+            "480": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/5/480p/480-gUO6KJp9lfx7o7UNc7Y7-1622204985314.mp4",
+            "360": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/5/360p/360-jriNqCLyf7dFS0wd1jg2-1622204985317.mp4",
+            "240": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/5/240p/240-9iLy5bZGHudaWYzE3JnZ-1622204985317.mp4"
+        },
+        {
+            "word": "100",
+            "720": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/1/720p/100_1622204504_49688.mp4",
+            "480": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/1/480p/480-Pl28wX69sWDgtQJ94tKU-1622204935309.mp4",
+            "360": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/1/360p/360-8I87mfmlLr4B2GpX00Mb-1622204935311.mp4",
+            "240": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/1/240p/240-Ce2O949uiZa1W1FBQKgz-1622204935312.mp4"
+        },
+        {
+            "word": "lakh",
+            "720": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/l/720p/lakh_1622204693_84626.mp4",
+            "480": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/l/480p/480-7zT6hnev2mOHlDnlvrRc-1622204995325.mp4",
+            "360": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/l/360p/360-tW48d1hheviGw4QkGEPJ-1622204995327.mp4",
+            "240": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/l/240p/240-z3yyJp780QKnWJJZ6uM8-1622204995328.mp4"
+        },
+        {
+            "word": "because",
+            "720": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/b/720p/because_1622484371_18035.mp4",
+            "480": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/b/480p/480-yuF7Mvy1FbuCfni2dKgt-1622484430204.mp4",
+            "360": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/b/360p/360-UHiN4ZHRTgMK1S9EeqQa-1622484430207.mp4",
+            "240": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/b/240p/240-oIxZlXa3s97iUjc4Ll1A-1622484430208.mp4"
+        },
+        {
+            "word": "from",
+            "720": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/f/720p/from_1622485177_47244.mp4",
+            "480": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/f/480p/480-53XSxFsmpzfXYjbeJMH3-1622485690251.mp4",
+            "360": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/f/360p/360-lbS8EyqsBWsV5I4g8WXo-1622485690253.mp4",
+            "240": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/f/240p/240-JQAp8xFix0SwIng87ZVO-1622485690254.mp4"
+        },
+        {
+            "word": "near",
+            "720": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/n/720p/near_1622485262_54583.mp4",
+            "480": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/n/480p/480-ctp4ACltdSd2mOTEteHN-1622485700239.mp4",
+            "360": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/n/360p/360-EHAufxsDW2jWMmxR7JnD-1622485700241.mp4",
+            "240": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/n/240p/240-cXv7iK3cBz3Z3uRAHSvC-1622485700242.mp4"
+        },
+        {
+            "word": "off",
+            "720": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/o/720p/off_1622485285_46442.mp4",
+            "480": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/o/480p/480-xHorMSOqs0JkaIAAWuZa-1622485710243.mp4",
+            "360": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/o/360p/360-bWrNOlnVqwZK9qjxKjlw-1622485710246.mp4",
+            "240": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/o/240p/240-t98l7JgqhXWlL5Rt8UEK-1622485710246.mp4"
+        },
+        {
+            "word": "outside",
+            "720": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/o/720p/outside_1622485323_43734.mp4",
+            "480": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/o/480p/480-qj2UQdyIREiTtej3eMCP-1622485720260.mp4",
+            "360": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/o/360p/360-RNsT6Dy1rmdF73JfsGBL-1622485720262.mp4",
+            "240": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/o/240p/240-KjO91cc8TZLI4QYKc6e6-1622485720263.mp4"
+        },
+        {
+            "word": "up",
+            "720": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/u/720p/up_1622523473_94588.mp4",
+            "480": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/u/480p/480-PYALpwAyfpCOSvIksJcS-1622524147397.mp4",
+            "360": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/u/360p/360-jvbTsUDmdNUYhJ3VKuxu-1622524147401.mp4",
+            "240": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/u/240p/240-RRRV9xRCNOnHd1lsCmiw-1622524147403.mp4"
+        },
+        {
+            "word": "without",
+            "720": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/w/720p/without_1622523509_77955.mp4",
+            "480": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/w/480p/480-jVOaasMQUoW2BjcJwcX6-1622524057384.mp4",
+            "360": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/w/360p/360-DExPgY8EdTDAkRtuWrUT-1622524057387.mp4",
+            "240": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/w/240p/240-cYNpKNAaeu59N7ar8sT1-1622524057388.mp4"
+        },
+        {
+            "word": "all",
+            "720": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/a/720p/all_1622611228_43809.mp4",
+            "480": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/a/480p/480-KalXcPrf9emV7V4P3fPS-1622611682073.mp4",
+            "360": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/a/360p/360-DBGpqW1OBwIdEldqKld1-1622611682077.mp4",
+            "240": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/a/240p/240-ia4bsQQSsugpe1xCAQrU-1622611682078.mp4"
+        },
+        {
+            "word": "another",
+            "720": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/a/720p/another_1622611245_79363.mp4",
+            "480": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/a/480p/480-8KXoCmc1Ukpo6EjJFefw-1622611882051.mp4",
+            "360": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/a/360p/360-LTYxWmW8jJjPROCswWSi-1622611882054.mp4",
+            "240": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/a/240p/240-9liU7IcPzelivZuQ7jie-1622611882055.mp4"
+        },
+        {
+            "word": "any",
+            "720": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/a/720p/any_1622611265_83576.mp4",
+            "480": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/a/480p/480-4Jq7v6yDVhOafa56dToS-1622611757066.mp4",
+            "360": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/a/360p/360-kjrJY2U5G2RalZblD6ol-1622611757069.mp4",
+            "240": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/a/240p/240-QQfKeakKh3KVsvHA1QL5-1622611757070.mp4"
+        },
+        {
+            "word": "both",
+            "720": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/b/720p/both_1622611302_38471.mp4",
+            "480": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/b/480p/480-Gi1XfczHrnPQRJ6bifV0-1622611772067.mp4",
+            "360": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/b/360p/360-JTAE3eo8dR7aNMStgVgf-1622611772070.mp4",
+            "240": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/b/240p/240-sIOicoWdCEbWwwVZ6Ijs-1622611772072.mp4"
+        },
+        {
+            "word": "few",
+            "720": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/f/720p/few_1622611375_87737.mp4",
+            "480": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/f/480p/480-KXpwAsIgx0gw3EoVDfmO-1622611837044.mp4",
+            "360": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/f/360p/360-G8UCpqeSLqJzVZPwoezO-1622611837047.mp4",
+            "240": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/f/240p/240-A1agOTq6eHDPYIfCs2IS-1622611837048.mp4"
+        },
+        {
+            "word": "he",
+            "720": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/h/720p/he_1622611392_58029.mp4",
+            "480": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/h/480p/480-wg3TXYCeaylGGCRJBij7-1622611812052.mp4",
+            "360": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/h/360p/360-OzdbQzdKwCZLJBZkwkH8-1622611812054.mp4",
+            "240": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/h/240p/240-EYXeT5u0CmH5p2sERvhH-1622611812055.mp4"
+        },
+        {
+            "word": "I",
+            "720": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/i/720p/I_1622611454_42066.mp4",
+            "480": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/i/480p/480-wGQF4rfYUq8BNDRIwkqF-1622611787050.mp4",
+            "360": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/i/360p/360-AvOC7ZW7M0YKuIlN6DMx-1622611787054.mp4",
+            "240": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/i/240p/240-zXzDbUS1qwV2h5gYbUn8-1622611787055.mp4"
+        },
+        {
+            "word": "many",
+            "720": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/m/720p/many_1622611470_57361.mp4",
+            "480": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/m/480p/480-829UmJwlgw4hsw0IOz1O-1622611822077.mp4",
+            "360": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/m/360p/360-jNigcR0W6894U8HzAM52-1622611822081.mp4",
+            "240": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/m/240p/240-ACaAdW0qsoFbk6mmLOFM-1622611822082.mp4"
+        },
+        {
+            "word": "she",
+            "720": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/s/720p/she_1622611657_96467.mp4",
+            "480": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/s/480p/480-QNf2ImZxO93TN2iuSOc4-1622612277071.mp4",
+            "360": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/s/360p/360-XJBlDFub8PLRB8Whr9j4-1622612277073.mp4",
+            "240": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/s/240p/240-GGUoLoBTmiy2JdqdWeMH-1622612277074.mp4"
+        },
+        {
+            "word": "some",
+            "720": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/s/720p/some_1622611676_53629.mp4",
+            "480": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/s/480p/480-kEQQIZi2fUvrWPeRZJhv-1622612577150.mp4",
+            "360": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/s/360p/360-K6wX3gyRFzLGNxY1WnWq-1622612577154.mp4",
+            "240": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/s/240p/240-08hjlThZ5N055lYv64i6-1622612577155.mp4"
+        },
+        {
+            "word": "this",
+            "720": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/t/720p/this_1622611761_30982.mp4",
+            "480": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/t/480p/480-bXKNmyGKR22l8W0X8po4-1622612532161.mp4",
+            "360": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/t/360p/360-OV691thlw5YOc5on8FbU-1622612532165.mp4",
+            "240": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/t/240p/240-iSKxddmChKHE5RLWB4xo-1622612532166.mp4"
+        },
+        {
+            "word": "we",
+            "720": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/w/720p/we_1622611835_37881.mp4",
+            "480": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/w/480p/480-ieVKHVIb3uKrbQRN2Ht4-1622612502129.mp4",
+            "360": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/w/360p/360-l31hnoRR9PJCoY0oMrh4-1622612502132.mp4",
+            "240": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/w/240p/240-bJtfAAFnWcQpzPtiZ3zC-1622612502132.mp4"
+        },
+        {
+            "word": "you",
+            "720": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/y/720p/you_1622611853_37569.mp4",
+            "480": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/y/480p/480-KAE1Je5MRsFcc4rWlCOM-1622612367122.mp4",
+            "360": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/y/360p/360-mE0PNmrFYOrHq5LNk1Am-1622612367126.mp4",
+            "240": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/y/240p/240-fIrmt52ROh1epPmJrvkz-1622612367127.mp4"
+        },
+        {
+            "word": "bus",
+            "720": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/b/720p/bus_1623077987_97307.mp4",
+            "480": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/b/480p/480-ZulXL3NkG8huOrKf2H0R-1623078746917.mp4",
+            "360": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/b/360p/360-5wwt9XawxzfNXQsyRjwn-1623078746919.mp4",
+            "240": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/b/240p/240-SMQCyB6KPWz0ahAZdaqa-1623078746920.mp4"
+        },
+        {
+            "word": "car",
+            "720": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/c/720p/car_1623078056_18645.mp4",
+            "480": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/c/480p/480-fegFLxqZDoJLvx1ZY0I0-1623078756904.mp4",
+            "360": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/c/360p/360-3Yg77X6tvvumVgmwz4wj-1623078756906.mp4",
+            "240": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/c/240p/240-52PyrTEC2YWyWax7CIoc-1623078756907.mp4"
+        },
+        {
+            "word": "cycle",
+            "720": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/c/720p/cycle_1623078178_42914.mp4",
+            "480": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/c/480p/480-YQnILBv70LD3Gg6T6PDE-1623078606908.mp4",
+            "360": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/c/360p/360-kGAWYRZlA6twJIwkvM9p-1623078606911.mp4",
+            "240": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/c/240p/240-PquQhVug7FzmfNCedmp8-1623078606912.mp4"
+        },
+        {
+            "word": "street",
+            "720": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/s/720p/street_1623079845_86300.mp4",
+            "480": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/s/480p/480-fF9l4dqzyJMkjUymbBnP-1623080306992.mp4",
+            "360": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/s/360p/360-b4kO80IgocPjk1YvmPHq-1623080306995.mp4",
+            "240": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/s/240p/240-jETWCGojBS8rTDUSKaAg-1623080306996.mp4"
+        },
+        {
+            "word": "truck",
+            "720": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/t/720p/truck_1623080141_86505.mp4",
+            "480": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/t/480p/480-msPygWjPzJhB2ClIERMb-1623080286986.mp4",
+            "360": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/t/360p/360-qC4YQC5A7kGvMhOFHRvZ-1623080286988.mp4",
+            "240": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/t/240p/240-TV8g9KLbjI328E4PTdun-1623080286989.mp4"
+        },
+        {
+            "word": "walk",
+            "720": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/w/720p/walk_1623080295_98168.mp4",
+            "480": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/w/480p/480-0VvIjmpxUlwc2SQs663h-1623080887003.mp4",
+            "360": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/w/360p/360-caJ5UKOT4C4gDxj8NyA8-1623080887005.mp4",
+            "240": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/w/240p/240-7sMU9E9M7Gl8cng4VrDs-1623080887006.mp4"
+        },
+        {
+            "word": "come",
+            "720": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/c/720p/come_1623164341_47268.mp4",
+            "480": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/c/480p/480-MmhECbnPJbM470Gl21Pz-1623164916531.mp4",
+            "360": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/c/360p/360-vxJWELd38kM6ovrUnqtW-1623164916534.mp4",
+            "240": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/c/240p/240-MPJcSKNl29zpVwRwWQ4M-1623164916535.mp4"
+        },
+        {
+            "word": "do",
+            "720": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/d/720p/do_1623176055_86319.mp4",
+            "480": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/d/480p/480-uR81yZt03uUmYXBLhScD-1623176307095.mp4",
+            "360": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/d/360p/360-G0qfyQXOv8q6CtPwFGQs-1623176307098.mp4",
+            "240": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/d/240p/240-62axJB8VRBJOyjRLUksC-1623176307099.mp4"
+        },
+        {
+            "word": "go",
+            "720": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/g/720p/go_1623253440_98918.mp4",
+            "480": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/g/480p/480-pbTLakdEnFCiItaGp9Za-1623253626166.mp4",
+            "360": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/g/360p/360-C9P1ycsRS9FSFeS7wHQN-1623253626168.mp4",
+            "240": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/g/240p/240-2CeEfZino1KmRwLeqPPk-1623253626169.mp4"
+        },
+        {
+            "word": "help",
+            "720": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/h/720p/help_1623253688_82961.mp4",
+            "480": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/h/480p/480-jRW0iFfbmnGANxm1sSXt-1623254246228.mp4",
+            "360": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/h/360p/360-anSnOgI9Rp1xw7B8TQmm-1623254246231.mp4",
+            "240": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/h/240p/240-OMs1tNgV95LVlboF9KjN-1623254246231.mp4"
+        },
+        {
+            "word": "keep",
+            "720": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/k/720p/keep_1623254400_50565.mp4",
+            "480": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/k/480p/480-OT94OCD26J2gNawoApKx-1623255121299.mp4",
+            "360": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/k/360p/360-IB8NASHFw1kA3n46gagp-1623255121303.mp4",
+            "240": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/k/240p/240-Fx5pYFPgjFeCWJr7J2E1-1623255121304.mp4"
+        },
+        {
+            "word": "make",
+            "720": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/m/720p/make_1623254883_74152.mp4",
+            "480": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/m/480p/480-x9GySy8qjk8CDgH9SsNB-1623255616302.mp4",
+            "360": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/m/360p/360-dqVlMLWMNvFFpQZdS3R8-1623255616304.mp4",
+            "240": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/m/240p/240-m5LfPO0Fy0HHKYkBZShk-1623255616305.mp4"
+        },
+        {
+            "word": "request",
+            "720": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/r/720p/request_1623328573_18561.mp4",
+            "480": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/r/480p/480-INsltXnbASfnRJaUOsZW-1623328655080.mp4",
+            "360": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/r/360p/360-TBVcUVq1hVB9xQY6jo3g-1623328655084.mp4",
+            "240": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/r/240p/240-FUcso4n0p83HLQYAEQuU-1623328655085.mp4"
+        },
+        {
+            "word": "say",
+            "720": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/s/720p/say_1623329056_33850.mp4",
+            "480": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/s/480p/480-8txgRlZUXkX4zgxc8waZ-1623329530113.mp4",
+            "360": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/s/360p/360-Pm5ijagUMrPCfuoDFULf-1623329530116.mp4",
+            "240": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/s/240p/240-NnOymDyZGlgADv7e9z9f-1623329530116.mp4"
+        },
+        {
+            "word": "travel",
+            "720": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/t/720p/travel_1623340215_88978.mp4",
+            "480": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/t/480p/480-o3xkHK4dQ46V8cz2O9Tf-1623340830728.mp4",
+            "360": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/t/360p/360-RfLkxRg1EKAZoIzFftGg-1623340830730.mp4",
+            "240": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/t/240p/240-jvDBDGB43LSx078GqQyK-1623340830731.mp4"
+        },
+        {
+            "word": "write",
+            "720": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/w/720p/write_1623340903_31332.mp4",
+            "480": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/w/480p/480-KFmvqX76Dtekn8IH323m-1623341375746.mp4",
+            "360": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/w/360p/360-YSD7rLsz9fMBTEYrFV8g-1623341375748.mp4",
+            "240": "https://api.aajkaadin.com/video?session=session&file=/storage/videos/w/240p/240-uawj55B1FTH35rhSUSFY-1623341375749.mp4"
+        }
+    ]
+}
