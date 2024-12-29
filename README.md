@@ -17,6 +17,7 @@ The PSL dataset is available as video-recorded gestures on the PSL Dictionary [w
 This toolkit has been employed in research studies published in the following research papers:
 
 1. Hamza, H.M., Wali, A. **Pakistan sign language recognition: leveraging deep learning models with limited dataset**. Machine Vision and Applications 34, 71 (2023). https://doi.org/10.1007/s00138-023-01429-8
+2. On its way!
    
 ## Getting started
 
@@ -55,7 +56,7 @@ The workflow of this automated toolkit is briefly described below and illustrate
 4. **Split the videos:** Divide each video into two segments, each representing the same gesture. One segment becomes part of the training data, while the other is reserved for testing.
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/780a3cff-4578-47e6-95be-04b78478a97a" alt="PSL Dataset Toolkit Workflow" width="700" />
+<img src="https://github.com/user-attachments/assets/0e3c0501-7856-49c2-b05f-31b837094b26" alt="PSL Dataset Toolkit Workflow" width="700" />
 </div>
 
 ## Execution
@@ -113,7 +114,7 @@ The downloaded video is saved as an MP4 file in the `dataset/original` folder.
 The cropping script removes all foreground objects (e.g., PSL logo, signage, and text in both English and Urdu), retaining only the signer, as illustrated below:
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/a52e4d4e-0670-4b2c-97c5-cccf7ba372ec" alt="Cropping" width="700" />
+<img src="https://github.com/user-attachments/assets/db056436-1222-44ed-b24e-36f0e9255501" alt="Cropping" width="700" />
 </div>
 
 To execute the cropping script, use the following command. It processes all videos in the specified directory, and the cropped videos will be saved in the `dataset/cropped` folder.
@@ -151,7 +152,7 @@ Algorithm: Splitting a video
 Five geometric and color-manipulation augmentation techniques were employed to increase the training data. These were **brightness**, **noise**, **scaling**, **translation**, and **rotation**. These techniques were implemented using the OpenCV-Python library with the following parameters: `rotation_angle = 10`, `scale_percent = 75`, and `translation_factor = 10`. The brightness was controlled by control variables `alpha` and `beta` with values of `1.5` and `5`, respectively. The salt & pepper noise was added with a proportion of `0.05`. The figure below illustrates a frame from each type of augmented video.
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/0e8b0819-7af0-486d-af82-94b031eafa0e" alt="Augmentation examples" width="700" />
+<img src="https://github.com/user-attachments/assets/239cf07e-c133-4704-95a9-512546b994a0" alt="Augmentation examples" width="700" />
 </div>
 
 The augmentation script is executed as follows, which applies the specified augmentation technique to the videos in the specified directory:
