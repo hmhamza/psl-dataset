@@ -1,4 +1,4 @@
-# Pakistan Sign Langauge (PSL) Dataset Toolkit
+# Pakistan Sign Language (PSL) Dataset Toolkit
 
 ![Python](https://img.shields.io/badge/python-3.x-blue?logo=python)
 ![Selenium](https://img.shields.io/badge/Selenium-Automation-blue?logo=selenium)
@@ -169,7 +169,7 @@ If you use this toolkit in your research, please consider citing our work:
 ```
 @misc{psldataset2024,
   author =       {Hafiz Muhammad Hamza},
-  title =        {Pakistan Sign Langauge (PSL) Dataset Toolkit},
+  title =        {Pakistan Sign Language (PSL) Dataset Toolkit},
   howpublished = {\url{https://github.com/hmhamza/psl-dataset}},
   year =         {2024}
 }
